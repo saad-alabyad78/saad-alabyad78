@@ -14,39 +14,22 @@ Welcome to my GitHub profile.
 ---
 
 ### 💻 **Back End Development**
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="./icons/PHP-Dark.svg" alt="C++" width="40" height="40" />
-  <img src="./icons/Laravel-Light.svg" alt="C++" width="40" height="40" />
-  <img src="./icons/Firebase-Light.svg" alt="TypeScript" width="40" height="40" />
-  
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="61" height="61" />
-  </div>
-  <img src="./icons/NodeJS-Dark.svg" alt="C++" width="40" height="40" />
-
-
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="61" height="61" />
-  </div>
-  <img src="./icons/DotNet.svg" alt="C++" width="40" height="40" />
-
-  <div style="display: flex; align-items: flex-start;">
-   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="61" height="61" />
-  </div>
-
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="61" height="61" />
-  </div>
-
+<div align="left" style="display: flex; flex-wrap: nowrap; gap: 8px; align-items: center;">
+  <img src="./icons/PHP-Dark.svg" alt="PHP" width="40" height="40" />
+  <img src="./icons/Laravel-Light.svg" alt="Laravel" width="40" height="40" />
+  <img src="./icons/Firebase-Light.svg" alt="Firebase" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="61" height="61" />
+  <img src="./icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="61" height="61" />
+  <img src="./icons/DotNet.svg" alt=".NET" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="61" height="61" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="61" height="61" />
 </div>
 
 ### 🗃️ **Databases**
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <div style="display: flex; align-items: flex-start;">
-   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="61" height="61" />
-  </div>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="61" height="61" />
   <img src="./icons/PostgreSQL-Light.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="./icons/SQLite.svg" alt="SQLite" width="40" height="40" />
 </div>
@@ -60,21 +43,15 @@ Welcome to my GitHub profile.
   <img src="./icons/Vite-Light.svg" alt="CSS" width="40" height="40" />
   <img src="./icons/ThreeJS-Light.svg" alt="TypeScript" width="40" height="40" />
   <img src="./icons/Npm-Light.svg" alt="TypeScript" width="40" height="40" />
-
 </div>
 
 ### 🛠️ **DevOps & Infrastructure**
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-<img src="./icons/Bash-Dark.svg" alt="TypeScript" width="40" height="40" />
-<img src="./icons/Linux-Light.svg" alt="TypeScript" width="40" height="40" />
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="61" height="61" />
-  </div>
-
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="61" height="61" />
-  </div>
+  <img src="./icons/Bash-Dark.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Linux-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="61" height="61" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="61" height="61" />
   <img src="./icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40" />
   <img src="./icons/Workers-Light.svg" alt="NGINX" width="40" height="40" />
   <img src="./icons/VIM-Light.svg" alt="TypeScript" width="40" height="40" />
@@ -86,20 +63,16 @@ Welcome to my GitHub profile.
 ### 🔧 **Others**
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-<img src="./icons/CMake-Dark.svg" alt="TypeScript" width="40" height="40" />
-<img src="./icons/Lua-Light.svg" alt="TypeScript" width="40" height="40" />
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" />
-  </div>
+  <img src="./icons/CMake-Dark.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Lua-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" />
   <img src="./icons/CPP.svg" alt="C++" width="40" height="40" />
   <img src="./icons/CS.svg" alt="C#" width="40" height="40" />
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" />
-  </div>
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" />
   <img src="./icons/Python-Dark.svg" alt="Python" width="40" height="40" />
   <img src="./icons/GoLang.svg" alt="Go" width="40" height="40" />
   <img src="./icons/TypeScript.svg" alt="TypeScript" width="40" height="40" />
-<img src="./icons/Notion-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Notion-Light.svg" alt="TypeScript" width="40" height="40" />
 </div>
 
 ### 🎮 **Game Development**
@@ -118,9 +91,7 @@ Welcome to my GitHub profile.
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="./icons/ScikitLearn-Dark.svg" alt="Scikit-Learn" width="40" height="40" />
   <img src="./icons/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40" />
-  <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="61" height="61" />
-  </div>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="61" height="61" />
 </div>
 
 ### **I Want To Learn**
