@@ -1,8 +1,11 @@
 # Hi, I'm Saad! 💻 **Backend Developer**
+
 Welcome to my GitHub profile.
 
 ---
+
 # 🎨 **About Me**
+
 - 💻 **I love coding**
 - 🛠️ **Currently working as:** Laravel Backend Developer
 - 🐧 **Currently Learning:** Linux and Docker
@@ -10,75 +13,148 @@ Welcome to my GitHub profile.
 
 ---
 
-## 🛠️ **Technologies & Tools**
+### 💻 **Back End Development**
 
-### 💻 **Backend Development**
-<div align="left">
-  <img src="./icons/Laravel-Dark.svg" alt="Laravel" width="40" height="40" />
-  <img src="./icons/PHP-Dark.svg" alt="PHP" width="40" height="40" />
-  <img src="./icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40" />
-  <img src="./icons/Python-Dark.svg" alt="Python" width="40" height="40" />
-  <img src="./icons/Java-Dark.svg" alt="Java" width="40" height="40" />
-  <img src="./icons/Spring-Dark.svg" alt="Spring" width="40" height="40" />
-  <img src="./icons/CS.svg" alt="C#" width="40" height="40" />
-  <img src="./icons/DotNet.svg" alt=".NET" width="40" height="40" />
-  <img src="./icons/GoLang.svg" alt="Go" width="40" height="40" />
-  <img src="./icons/GraphQL-Dark.svg" alt="GraphQL" width="40" height="40" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="./icons/PHP-Dark.svg" alt="C++" width="40" height="40" />
+  <img src="./icons/Laravel-Light.svg" alt="C++" width="40" height="40" />
+  <img src="./icons/NodeJS-Dark.svg" alt="C++" width="40" height="40" />
+  
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="61" height="61" />
+  </div>
+
+  <img src="./icons/DotNet.svg" alt="C++" width="40" height="40" />
+
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="61" height="61" />
+  </div>
+
+  <div style="display: flex; align-items: flex-start;">
+   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="61" height="61" />
+  </div>
+
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="61" height="61" />
+  </div>
+  <img src="./icons/Symfony-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Postman.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Firebase-Light.svg" alt="TypeScript" width="40" height="40" />
+
 </div>
 
-### 🎨 **Frontend Development**
-<div align="left">
+### 🌈 **Front End Development**
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="./icons/HTML.svg" alt="HTML" width="40" height="40" />
   <img src="./icons/CSS.svg" alt="CSS" width="40" height="40" />
   <img src="./icons/JavaScript.svg" alt="JavaScript" width="40" height="40" />
-  <img src="./icons/Vite-Dark.svg" alt="Vite" width="40" height="40" />
-  <img src="./icons/Npm-Dark.svg" alt="npm" width="40" height="40" />
-</div>
+  <img src="./icons/Vite-Light.svg" alt="CSS" width="40" height="40" />
+  <img src="./icons/ThreeJS-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Npm-Light.svg" alt="TypeScript" width="40" height="40" />
 
-### 🛠️ **DevOps & Tools**
-<div align="left">
-  <img src="./icons/Docker.svg" alt="Docker" width="40" height="40" />
-  <img src="./icons/Linux-Dark.svg" alt="Linux" width="40" height="40" />
-  <img src="./icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40" />
-  <img src="./icons/Bash-Dark.svg" alt="Bash" width="40" height="40" />
-  <img src="./icons/Git.svg" alt="Git" width="40" height="40" />
-  <img src="./icons/Github-Dark.svg" alt="GitHub" width="40" height="40" />
-  <img src="./icons/GitLab-Dark.svg" alt="GitLab" width="40" height="40" />
-  <img src="./icons/Postman.svg" alt="Postman" width="40" height="40" />
-  <img src="./icons/Firebase-Dark.svg" alt="Firebase" width="40" height="40" />
-  <img src="./icons/VSCode-Dark.svg" alt="VS Code" width="40" height="40" />
 </div>
 
 ### 🗃️ **Databases**
-<div align="left">
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <div style="display: flex; align-items: flex-start;">
+   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="61" height="61" />
+  </div>
   <img src="./icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40" />
   <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="./icons/SQLite.svg" alt="SQLite" width="40" height="40" />
 </div>
 
----
+### 🛠️ **DevOps & Infrastructure**
 
-## **Tech Stack**
-<div align="center" style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./icons/CPP.svg" alt="C++" width="50" height="50" />
-  <img src="./icons/CS.svg" alt="C#" width="50" height="50" />
-  <img src="./icons/Python-Dark.svg" alt="Python" width="50" height="50" />
-  <img src="./icons/GraphQL-Dark.svg" alt="GraphQL" width="50" height="50" />
-  <img src="./icons/MySQL-Dark.svg" alt="MySQL" width="50" height="50" />
-  <img src="./icons/Java-Dark.svg" alt="Java" width="50" height="50" />
-  <img src="./icons/Github-Dark.svg" alt="GitHub" width="50" height="50" />
-  <img src="./icons/Nginx.svg" alt="Nginx" width="50" height="50" />
-  <img src="./icons/Docker.svg" alt="Docker" width="50" height="50" />
-  <img src="./icons/JavaScript.svg" alt="JavaScript" width="50" height="50" />
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+<img src="./icons/Bash-Dark.svg" alt="TypeScript" width="40" height="40" />
+<img src="./icons/Linux-Light.svg" alt="TypeScript" width="40" height="40" />
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="61" height="61" />
+  </div>
+
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="61" height="61" />
+  </div>
+  <img src="./icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40" />
+  <img src="./icons/Docker.svg" alt="Docker" width="40" height="40" />
+  <img src="./icons/Workers-Light.svg" alt="NGINX" width="40" height="40" />
+  <img src="./icons/VIM-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Powershell-Dark.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/GitLab-Dark.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Git.svg" alt="TypeScript" width="40" height="40" />
+</div>
+
+### 🔧 **Others**
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+<img src="./icons/CMake-Dark.svg" alt="TypeScript" width="40" height="40" />
+<img src="./icons/Lua-Light.svg" alt="TypeScript" width="40" height="40" />
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" />
+  </div>
+  <img src="./icons/CPP.svg" alt="C++" width="40" height="40" />
+  <img src="./icons/CS.svg" alt="C#" width="40" height="40" />
+  <img src="./icons/Java-Dark.svg" alt="Java" width="40" height="40" />
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="61" height="61" />
+  </div>
+  <img src="./icons/Python-Dark.svg" alt="Python" width="40" height="40" />
+  <img src="./icons/GoLang.svg" alt="Go" width="40" height="40" />
+  <img src="./icons/TypeScript.svg" alt="TypeScript" width="40" height="40" />
+
+  <img src="./icons/VSCode-Dark.svg" alt="TypeScript" width="40" height="40" />
+<img src="./icons/VisualStudio-Light.svg" alt="TypeScript" width="40" height="40" />
+<img src="./icons/StackOverflow-Light.svg" alt="TypeScript" width="40" height="40" />
+</div>
+<img src="./icons/Notion-Light.svg" alt="TypeScript" width="40" height="40" />
+
+### 🎮 **Game Development**
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="./icons/Unity-Dark.svg" alt="Unity" width="40" height="40" />
+</div>
+<div style="display: flex; align-items: flex-start;">
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="61" height="61" />
+</div>
+<img src="./icons/UnrealEngine.svg" alt="TypeScript" width="40" height="40" />
+
+### 🎨 **Design & Creative**
+
+  <img src="./icons/Blender-Dark.svg" alt="Blender" width="40" height="40" />
+
+### 🤖 **AI/ML**
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="./icons/ScikitLearn-Dark.svg" alt="Scikit-Learn" width="40" height="40" />
+  <img src="./icons/Anaconda-Dark.svg" alt="Anaconda" width="40" height="40" />
+  <div style="display: flex; align-items: flex-start;">
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="61" height="61" />
+  </div>
+</div>
+
+### **I Want To Learn**
+
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+<img src="./icons/NestJS-Dark.svg" alt="Scikit-Learn" width="40" height="40" />
+  <img src="./icons/ExpressJS-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/TailwindCSS-Dark.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/MongoDB.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Cassandra-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Nginx.svg" alt="NGINX" width="40" height="40" />
+  <img src="./icons/NeoVim-Dark.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Docker.svg" alt="Docker" width="40" height="40" />
+  <img src="./icons/Kubernetes.svg" alt="Docker" width="40" height="40" />
+</div>
+
+<div align="center" style="display: flex; flex-wrap: wrap; gap: 5px;">
+
 </div>
 
 ---
 
-## **Interests**
-- Artificial Intelligence (AI)
-- Machine Learning
-- Automation
-
 ---
 
-⭐ **Thanks for visiting!** ⭐
+⭐ **Thanks for visiting!** ⭐3
