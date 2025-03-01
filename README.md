@@ -50,8 +50,7 @@ Welcome to my GitHub profile.
   <div style="display: flex; align-items: flex-start;">
    <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="61" height="61" />
   </div>
-  <img src="./icons/MySQL-Dark.svg" alt="MySQL" width="40" height="40" />
-  <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40" />
+  <img src="./icons/PostgreSQL-Light.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="./icons/SQLite.svg" alt="SQLite" width="40" height="40" />
 </div>
 
