@@ -37,12 +37,9 @@ Welcome to my GitHub profile.
   <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="61" height="61" />
   </div>
-  <img src="./icons/Symfony-Light.svg" alt="TypeScript" width="40" height="40" />
-  <img src="./icons/Postman.svg" alt="TypeScript" width="40" height="40" />
   <img src="./icons/Firebase-Light.svg" alt="TypeScript" width="40" height="40" />
 
 </div>
-
 
 ### 🗃️ **Databases**
 
@@ -55,6 +52,7 @@ Welcome to my GitHub profile.
 </div>
 
 ### 🌈 **Front End Development**
+
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="./icons/HTML.svg" alt="HTML" width="40" height="40" />
   <img src="./icons/CSS.svg" alt="CSS" width="40" height="40" />
@@ -64,7 +62,6 @@ Welcome to my GitHub profile.
   <img src="./icons/Npm-Light.svg" alt="TypeScript" width="40" height="40" />
 
 </div>
-
 
 ### 🛠️ **DevOps & Infrastructure**
 
@@ -102,12 +99,8 @@ Welcome to my GitHub profile.
   <img src="./icons/Python-Dark.svg" alt="Python" width="40" height="40" />
   <img src="./icons/GoLang.svg" alt="Go" width="40" height="40" />
   <img src="./icons/TypeScript.svg" alt="TypeScript" width="40" height="40" />
-
-  <img src="./icons/VSCode-Dark.svg" alt="TypeScript" width="40" height="40" />
-<img src="./icons/VisualStudio-Light.svg" alt="TypeScript" width="40" height="40" />
-<img src="./icons/StackOverflow-Light.svg" alt="TypeScript" width="40" height="40" />
-</div>
 <img src="./icons/Notion-Light.svg" alt="TypeScript" width="40" height="40" />
+</div>
 
 ### 🎮 **Game Development**
 
