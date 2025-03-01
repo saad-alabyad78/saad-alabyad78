@@ -18,17 +18,18 @@ Welcome to my GitHub profile.
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="./icons/PHP-Dark.svg" alt="C++" width="40" height="40" />
   <img src="./icons/Laravel-Light.svg" alt="C++" width="40" height="40" />
-  <img src="./icons/NodeJS-Dark.svg" alt="C++" width="40" height="40" />
+  <img src="./icons/Firebase-Light.svg" alt="TypeScript" width="40" height="40" />
   
   <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="61" height="61" />
   </div>
+  <img src="./icons/NodeJS-Dark.svg" alt="C++" width="40" height="40" />
 
-  <img src="./icons/DotNet.svg" alt="C++" width="40" height="40" />
 
   <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="61" height="61" />
   </div>
+  <img src="./icons/DotNet.svg" alt="C++" width="40" height="40" />
 
   <div style="display: flex; align-items: flex-start;">
    <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="61" height="61" />
@@ -37,7 +38,6 @@ Welcome to my GitHub profile.
   <div style="display: flex; align-items: flex-start;">
     <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="61" height="61" />
   </div>
-  <img src="./icons/Firebase-Light.svg" alt="TypeScript" width="40" height="40" />
 
 </div>
 
