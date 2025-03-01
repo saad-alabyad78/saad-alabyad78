@@ -8,7 +8,7 @@ Welcome to my GitHub profile.
 
 - 💻 **I love coding**
 - 🛠️ **Currently working as:** Laravel Backend Developer
-- 🐧 **Currently Learning:** Linux and Docker
+- 🐧 **Currently Learning:** NodeJs,Linux and Docker
 - 🤖 **College specialty:** Artificial Intelligence
 
 ---
@@ -43,17 +43,6 @@ Welcome to my GitHub profile.
 
 </div>
 
-### 🌈 **Front End Development**
-
-<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-  <img src="./icons/HTML.svg" alt="HTML" width="40" height="40" />
-  <img src="./icons/CSS.svg" alt="CSS" width="40" height="40" />
-  <img src="./icons/JavaScript.svg" alt="JavaScript" width="40" height="40" />
-  <img src="./icons/Vite-Light.svg" alt="CSS" width="40" height="40" />
-  <img src="./icons/ThreeJS-Light.svg" alt="TypeScript" width="40" height="40" />
-  <img src="./icons/Npm-Light.svg" alt="TypeScript" width="40" height="40" />
-
-</div>
 
 ### 🗃️ **Databases**
 
@@ -65,6 +54,18 @@ Welcome to my GitHub profile.
   <img src="./icons/PostgreSQL-Dark.svg" alt="PostgreSQL" width="40" height="40" />
   <img src="./icons/SQLite.svg" alt="SQLite" width="40" height="40" />
 </div>
+
+### 🌈 **Front End Development**
+<div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
+  <img src="./icons/HTML.svg" alt="HTML" width="40" height="40" />
+  <img src="./icons/CSS.svg" alt="CSS" width="40" height="40" />
+  <img src="./icons/JavaScript.svg" alt="JavaScript" width="40" height="40" />
+  <img src="./icons/Vite-Light.svg" alt="CSS" width="40" height="40" />
+  <img src="./icons/ThreeJS-Light.svg" alt="TypeScript" width="40" height="40" />
+  <img src="./icons/Npm-Light.svg" alt="TypeScript" width="40" height="40" />
+
+</div>
+
 
 ### 🛠️ **DevOps & Infrastructure**
 
@@ -79,7 +80,6 @@ Welcome to my GitHub profile.
     <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="61" height="61" />
   </div>
   <img src="./icons/Ubuntu-Dark.svg" alt="Ubuntu" width="40" height="40" />
-  <img src="./icons/Docker.svg" alt="Docker" width="40" height="40" />
   <img src="./icons/Workers-Light.svg" alt="NGINX" width="40" height="40" />
   <img src="./icons/VIM-Light.svg" alt="TypeScript" width="40" height="40" />
   <img src="./icons/Powershell-Dark.svg" alt="TypeScript" width="40" height="40" />
@@ -97,9 +97,8 @@ Welcome to my GitHub profile.
   </div>
   <img src="./icons/CPP.svg" alt="C++" width="40" height="40" />
   <img src="./icons/CS.svg" alt="C#" width="40" height="40" />
-  <img src="./icons/Java-Dark.svg" alt="Java" width="40" height="40" />
   <div style="display: flex; align-items: flex-start;">
-    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="61" height="61" />
+    <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" />
   </div>
   <img src="./icons/Python-Dark.svg" alt="Python" width="40" height="40" />
   <img src="./icons/GoLang.svg" alt="Go" width="40" height="40" />
@@ -115,11 +114,8 @@ Welcome to my GitHub profile.
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
   <img src="./icons/Unity-Dark.svg" alt="Unity" width="40" height="40" />
-</div>
-<div style="display: flex; align-items: flex-start;">
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="61" height="61" />
 </div>
-<img src="./icons/UnrealEngine.svg" alt="TypeScript" width="40" height="40" />
 
 ### 🎨 **Design & Creative**
 
