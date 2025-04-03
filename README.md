@@ -8,7 +8,7 @@ Welcome to my GitHub profile.
 
 - 💻 **I love coding**
 - 🛠️ **Currently working as:** Laravel Backend Developer
-- 🐧 **Currently Learning:** NodeJs,Linux and Docker
+- 🐧 **Currently Learning:** Linux and Docker
 - 🤖 **College specialty:** Artificial Intelligence
 
 ---
