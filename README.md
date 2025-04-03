@@ -18,10 +18,9 @@ Welcome to my GitHub profile.
   <img src="./icons/PHP-Dark.svg" alt="PHP" width="40" height="40" />
   <img src="./icons/Laravel-Light.svg" alt="Laravel" width="40" height="40" />
   <img src="./icons/Firebase-Light.svg" alt="Firebase" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="61" height="61" />
-  <img src="./icons/NodeJS-Dark.svg" alt="Node.js" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="61" height="61" />
-  <img src="./icons/DotNet.svg" alt=".NET" width="40" height="40" />
+   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" />
+  <img src="./icons/Java-Dark.svg" alt="java" width="61" height="61" />
+  <img src="./icons/spring-boot.jpeg" alt=".NET" width="40" height="40" />
   <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="61" height="61" />
   <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="61" height="61" />
 </div>
@@ -68,10 +67,7 @@ Welcome to my GitHub profile.
   <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="61" height="61" />
   <img src="./icons/CPP.svg" alt="C++" width="40" height="40" />
   <img src="./icons/CS.svg" alt="C#" width="40" height="40" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="51" height="51" />
   <img src="./icons/Python-Dark.svg" alt="Python" width="40" height="40" />
-  <img src="./icons/GoLang.svg" alt="Go" width="40" height="40" />
-  <img src="./icons/TypeScript.svg" alt="TypeScript" width="40" height="40" />
   <img src="./icons/Notion-Light.svg" alt="TypeScript" width="40" height="40" />
 </div>
 
@@ -97,10 +93,6 @@ Welcome to my GitHub profile.
 ### **I Want To Learn**
 
 <div align="left" style="display: flex; flex-wrap: wrap; gap: 8px;">
-<img src="./icons/NestJS-Dark.svg" alt="Scikit-Learn" width="40" height="40" />
-  <img src="./icons/ExpressJS-Light.svg" alt="TypeScript" width="40" height="40" />
-  <img src="./icons/TailwindCSS-Dark.svg" alt="TypeScript" width="40" height="40" />
-  <img src="./icons/MongoDB.svg" alt="TypeScript" width="40" height="40" />
   <img src="./icons/Cassandra-Light.svg" alt="TypeScript" width="40" height="40" />
   <img src="./icons/Nginx.svg" alt="NGINX" width="40" height="40" />
   <img src="./icons/NeoVim-Dark.svg" alt="TypeScript" width="40" height="40" />
